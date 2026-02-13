@@ -63,7 +63,7 @@ const (
 
 //nolint:gochecknoglobals
 var (
-	pluginVersion           = "1.5.1"
+	pluginVersion           = "1.6.9"
 	isStartup               = true
 	isCrowdsecStreamHealthy = true
 	updateFailure           int64
